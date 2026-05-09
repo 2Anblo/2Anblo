@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning: **AI / Full Stack**
 - 🔭 I’m working on: **Some cool side projects**
 - 💬 Ask me about: **JavaScript / Python / Git**
-- 📫 How to reach me: **your_email@example.com**
+- 📫 How to reach me: **zhanbochen210@foxmail.com**
 
 ---
 
