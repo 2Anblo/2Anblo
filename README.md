@@ -45,8 +45,7 @@
 
 ## 🌐 Connect with me
 
-- 📧 Email: your_email@example.com
-- 💬 WeChat / Telegram / Twitter（可选）
+- 📧 Email: zhanbochen210@foxmail.com
 
 ---
 
