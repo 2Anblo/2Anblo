@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-000?&logo=coffeescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
