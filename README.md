@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there 👋 I'm Zhanbo
 
-<!--
-**2Anblo/2Anblo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A passionate developer from China  
+💻 Focus on Web / Backend / AI  
+🚀 Currently building interesting projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🌱 I’m currently learning: **AI / Full Stack**
+- 🔭 I’m working on: **Some cool side projects**
+- 💬 Ask me about: **JavaScript / Python / Git**
+- 📫 How to reach me: **your_email@example.com**
+
+---
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Featured Projects
+
+- 🚀 [Project Name](https://github.com/你的用户名/项目名)  
+  👉 简单描述这个项目是干嘛的
+
+- ⚡ [Another Project](https://github.com/你的用户名/项目名)  
+  👉 写点亮点，比如用了什么技术
+
+---
+
+## 🌐 Connect with me
+
+- 📧 Email: your_email@example.com
+- 💬 WeChat / Telegram / Twitter（可选）
+
+---
+
+## 👀 Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=你的用户名&color=blue)
