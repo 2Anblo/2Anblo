@@ -15,13 +15,13 @@
 
 ---
 ### 💻 Frontend
-![Frontend](https://skillicons.dev/icons?i=js,ts,react,vue,html,css)
+![Frontend](https://skillicons.dev/icons?i=js,ts,react,vue,html,css,vite,wordpress)
 
 ### ⚙️ Backend
-![Backend](https://skillicons.dev/icons?i=java,nodejs,python,cpp,c)
+![Backend](https://skillicons.dev/icons?i=java,nodejs,python,cpp,c,redis,nginx,mysql,mongodb)
 
 ### 🛠 Tools
-![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,webstorm)
+![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,webstorm,postman)
 
 ---
 
