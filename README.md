@@ -15,7 +15,7 @@
 
 ---
 
-## 🔧 Tech stacks
+## 🔧 Tech stack
 
 ![Frontend](https://skillicons.dev/icons?i=js,ts,react,vue,html,css,vite,wordpress,pinia)
 
