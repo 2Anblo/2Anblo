@@ -51,4 +51,4 @@
 
 ## 👀 Visitor Count
 
-![Visitor Count](https://komarev.com/ghpvc/?username=你的用户名&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=2Anblo&color=blue)
