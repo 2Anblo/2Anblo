@@ -1,5 +1,7 @@
 # Hi there 👋 I'm Zhanbo
 
+![Visitor Count](https://komarev.com/ghpvc/?username=2Anblo&color=blue)
+
 🎯 A passionate developer from China  
 💻 Focus on Web / Backend / AI  
 🚀 Currently building interesting projects  
@@ -47,8 +49,4 @@
 
 - 📧 Email: zhanbochen210@foxmail.com
 
----
 
-## 👀 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=2Anblo&color=blue)
