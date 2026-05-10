@@ -37,11 +37,8 @@
 
 ## 🔥 Featured Projects
 
-- 🚀 [Project Name](https://github.com/你的用户名/项目名)  
-  👉 简单描述这个项目是干嘛的
-
-- ⚡ [Another Project](https://github.com/你的用户名/项目名)  
-  👉 写点亮点，比如用了什么技术
+- 🎵 [MusicLens](https://github.com/2Anblo/musiclens)  
+A modern AI music platform for music generation, audio analysis, and creative workflows. Built with Spring Boot, Vue 3, and FastAPI.
 
 ---
 
