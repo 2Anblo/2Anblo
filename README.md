@@ -14,13 +14,13 @@
 - 📫 How to reach me: **zhanbochen210@foxmail.com**
 
 ---
-### 💻 Frontend
+
+## 🔧 Tech stacks
+
 ![Frontend](https://skillicons.dev/icons?i=js,ts,react,vue,html,css,vite,wordpress,pinia)
 
-### ⚙️ Backend
 ![Backend](https://skillicons.dev/icons?i=java,nodejs,python,cpp,c,redis,nginx,mysql,mongodb)
 
-### 🛠 Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,webstorm,postman,vim)
 
 ---
