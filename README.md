@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning: **AI / Full Stack**
 - 🔭 I’m working on: **Some cool side projects**
-- 💬 Ask me about: **JavaScript / Python / Git**
+- 💬 Ask me about: **Java / Python / Git**
 - 📫 How to reach me: **zhanbochen210@foxmail.com**
 
 ---
@@ -18,10 +18,10 @@
 ![Frontend](https://skillicons.dev/icons?i=js,ts,react,vue,html,css)
 
 ### ⚙️ Backend
-![Backend](https://skillicons.dev/icons?i=java,nodejs,python,php)
+![Backend](https://skillicons.dev/icons?i=java,nodejs,python,cpp,c)
 
 ### 🛠 Tools
-![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode)
+![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea)
 
 ---
 
