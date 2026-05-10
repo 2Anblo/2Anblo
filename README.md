@@ -21,7 +21,7 @@
 ![Backend](https://skillicons.dev/icons?i=java,nodejs,python,cpp,c)
 
 ### 🛠 Tools
-![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea)
+![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,webstorm)
 
 ---
 
