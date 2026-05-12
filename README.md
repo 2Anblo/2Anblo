@@ -53,10 +53,4 @@
 - 🎵 [MusicLens](https://github.com/2Anblo/musiclens)  
 A modern AI music platform for music generation, audio analysis, and creative workflows. Built with Spring Boot, Vue 3, and FastAPI.
 
----
-
-## 🌐 Connect with me
-
-- 📧 Email: zhanbochen210@foxmail.com
-
 
