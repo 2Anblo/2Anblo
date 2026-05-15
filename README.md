@@ -19,6 +19,10 @@
   <a href="https://blog.csdn.net/qq_43324768">
     <img src="https://img.shields.io/badge/CSDN-63K%20Views-red?logo=csdn&logoColor=white" />
   </a>
+
+  <a href="https://leetcode.cn/u/zanblo/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 🎯 A passionate developer from China  
