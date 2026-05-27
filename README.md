@@ -14,7 +14,7 @@
 ---
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=2Anblo&color=blue)](https://github.com/2Anblo)
-[![CSDN](https://img.shields.io/badge/CSDN-68K%20Views-red?logo=csdn&logoColor=white)](https://blog.csdn.net/qq_43324768)
+[![CSDN](https://img.shields.io/badge/CSDN-69K%20Views-red?logo=csdn&logoColor=white)](https://blog.csdn.net/qq_43324768)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.cn/u/zanblo/)
 
 🎯 A passionate developer from China  
